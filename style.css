@@ -41,7 +41,7 @@ body, html {
   }
 
 .textblock {
-	/* This sets up the spacing inside of the textblock divs. I'd encourage y'all to play around with this padding to see what happens. You can really change the feel of your site by rearranging elements via padding and other methods. See https://www.w3schools.com/css/css_padding.asp for info on padding and https://www.w3schools.com/css/css_positioning.asp for div position*/  
+	/* This sets up the spacing inside of the textblock divs. I'd encourage y'all to play around with this padding to see what happens. You can really change the feel of your site by rearranging elements via padding and other methods. See https://www.w3schools.com/css/css_padding.asp for info on padding and https://www.w3schools.com/css/css_positioning.asp for div position*/
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 100px;
@@ -54,10 +54,10 @@ body, html {
 	font-size: 1em;
 	line-height: 1.2;
   }
-  
 
 
-  .textblock a:link 
+
+  .textblock a:link
   /* This section lets you adjust the text style for your link elements in the textblock div.  See https://www.w3schools.com/html/html_links.asp for more details. With links styles can be applied based on several factors.*/{
   text-decoration: none;
   color: blue;
@@ -170,7 +170,7 @@ This code controls that cool parallax image and scrolling effect. Change the ima
 
 
 .parallax {
-    background-image: url("cats.png");
+    background-image: url("hero.jpg");
 
     /* Set a specific height */
     height: 500px;
