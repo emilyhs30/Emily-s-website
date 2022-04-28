@@ -2,8 +2,8 @@ body, html {
 	/* this controls universal elements on your site. Everything in here can be overridden by styles below. */
   height: 100%;
   margin: 0;
-  font-family: Verdana, Helvetica, Arial, san-serif;
-  background-color: white;
+  font-family: 'Roboto Slab', serif;
+  background-color: #B6D0E2;
 }
 
 .hero-image {
